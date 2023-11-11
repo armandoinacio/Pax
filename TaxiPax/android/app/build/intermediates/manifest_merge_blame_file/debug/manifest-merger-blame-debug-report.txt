@@ -1,0 +1,863 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kwanzaatm"
+4    android:versionCode="11"
+5    android:versionName="2.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:4:4-66
+12-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:4:21-63
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:5:1-77
+13-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:5:18-74
+14    <uses-permission android:name="android.permission.ACCESS_COURSE_LOCATION" />
+14-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:6:3-78
+14-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:6:20-76
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:7:3-77
+15-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:7:20-74
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:8:2-78
+16-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:8:19-75
+17    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+17-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:9:1-76
+17-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:9:18-74
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:10:1-62
+18-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:10:18-59
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:11:1-64
+19-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:11:18-61
+20    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+20-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:12:4-76
+20-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:12:21-73
+21    <uses-permission
+21-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:13:2-98
+22        android:name="android.permission.USE_EXACT_ALARM"
+22-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:13:46-95
+23        android:minSdkVersion="34" />
+23-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:13:19-45
+24    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
+24-->[com.facebook.flipper:flipper:0.125.0] /home/armando/.gradle/caches/transforms-3/28a4f4c70809af868ac8d2b87c6a4b28/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+24-->[com.facebook.flipper:flipper:0.125.0] /home/armando/.gradle/caches/transforms-3/28a4f4c70809af868ac8d2b87c6a4b28/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+25    <permission
+25-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:10:5-12:47
+26        android:name="com.kwanzaatm.permission.C2D_MESSAGE"
+26-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:11:9-63
+27        android:protectionLevel="signature" />
+27-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:12:9-44
+28
+29    <uses-permission android:name="com.kwanzaatm.permission.C2D_MESSAGE" /> <!-- Required runtime permission to display notifications on Android 13 -->
+29-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:14:5-79
+29-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:14:22-76
+30    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- c2dm RECEIVE are basic requirements for push messages through Google's FCM -->
+30-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:17:5-77
+30-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:17:22-74
+31    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" /> <!-- START: ShortcutBadger -->
+31-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:19:5-82
+31-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:19:22-79
+32    <!-- Samsung -->
+33    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+33-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:31:5-86
+33-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:31:22-83
+34    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- HTC -->
+34-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:32:5-87
+34-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:32:22-84
+35    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+35-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:33:5-81
+35-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:33:22-78
+36    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- Sony -->
+36-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:34:5-83
+36-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:34:22-80
+37    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+37-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:35:5-88
+37-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:35:22-85
+38    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- Apex -->
+38-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:36:5-92
+38-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:36:22-89
+39    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- Solid -->
+39-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:37:5-84
+39-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:37:22-81
+40    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- Huawei -->
+40-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:38:5-83
+40-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:38:22-80
+41    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+41-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:39:5-91
+41-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:39:22-88
+42    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+42-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:40:5-92
+42-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:40:22-89
+43    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- ZUK -->
+43-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:41:5-93
+43-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:41:22-90
+44    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- OPPO -->
+44-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:42:5-73
+44-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:42:22-70
+45    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+45-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:43:5-82
+45-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:43:22-79
+46    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- EvMe -->
+46-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:44:5-83
+46-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:44:22-80
+47    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+47-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:45:5-88
+47-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:45:22-85
+48    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+48-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:46:5-89
+48-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:46:22-86
+49    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+49-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:24:5-79
+49-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:24:22-76
+50    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+50-->[:react-native-background-runner] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/react-native-background-runner/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-85
+50-->[:react-native-background-runner] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/react-native-background-runner/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:22-82
+51
+52    <uses-feature
+52-->[com.google.android.gms:play-services-maps:18.0.2] /home/armando/.gradle/caches/transforms-3/3f71cbf3c5977312fcc94f96512bbc19/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+53        android:glEsVersion="0x00020000"
+53-->[com.google.android.gms:play-services-maps:18.0.2] /home/armando/.gradle/caches/transforms-3/3f71cbf3c5977312fcc94f96512bbc19/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+54        android:required="true" />
+54-->[com.google.android.gms:play-services-maps:18.0.2] /home/armando/.gradle/caches/transforms-3/3f71cbf3c5977312fcc94f96512bbc19/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+55
+56    <queries>
+56-->[com.google.android.gms:play-services-maps:18.0.2] /home/armando/.gradle/caches/transforms-3/3f71cbf3c5977312fcc94f96512bbc19/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+57
+58        <!-- Needs to be explicitly declared on Android R+ -->
+59        <package android:name="com.google.android.apps.maps" />
+59-->[com.google.android.gms:play-services-maps:18.0.2] /home/armando/.gradle/caches/transforms-3/3f71cbf3c5977312fcc94f96512bbc19/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+59-->[com.google.android.gms:play-services-maps:18.0.2] /home/armando/.gradle/caches/transforms-3/3f71cbf3c5977312fcc94f96512bbc19/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+60    </queries>
+61
+62    <permission
+62-->[androidx.core:core:1.9.0] /home/armando/.gradle/caches/transforms-3/0246002ca379b529ac12df13eb6d7c19/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+63        android:name="com.kwanzaatm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+63-->[androidx.core:core:1.9.0] /home/armando/.gradle/caches/transforms-3/0246002ca379b529ac12df13eb6d7c19/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+64        android:protectionLevel="signature" />
+64-->[androidx.core:core:1.9.0] /home/armando/.gradle/caches/transforms-3/0246002ca379b529ac12df13eb6d7c19/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+65
+66    <uses-permission android:name="com.kwanzaatm.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+66-->[androidx.core:core:1.9.0] /home/armando/.gradle/caches/transforms-3/0246002ca379b529ac12df13eb6d7c19/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+66-->[androidx.core:core:1.9.0] /home/armando/.gradle/caches/transforms-3/0246002ca379b529ac12df13eb6d7c19/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+67    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+67-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:16:5-81
+67-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:16:22-78
+68    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+68-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:17:5-79
+68-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:17:22-76
+69    <uses-permission
+69-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:18:5-20:38
+70        android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+70-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:19:9-73
+71        android:maxSdkVersion="30" /> <!-- For Xiaomi devices to enable heads-up notifications as default (https://github.com/invertase/notifee/issues/296) -->
+71-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:20:9-35
+72    <uses-permission
+72-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:22:5-24:38
+73        android:name="android.permission.ACCESS_NOTIFICATION_POLICY"
+73-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:23:9-69
+74        android:minSdkVersion="23" />
+74-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:24:9-35
+75
+76    <application
+76-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:15:2-47:15
+77        android:name="com.kwanzaatm.MainApplication"
+77-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:16:9-40
+78        android:allowBackup="false"
+78-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:20:9-36
+79        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+79-->[androidx.core:core:1.9.0] /home/armando/.gradle/caches/transforms-3/0246002ca379b529ac12df13eb6d7c19/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+80        android:debuggable="true"
+81        android:icon="@drawable/simb"
+81-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:18:9-38
+82        android:label="@string/app_name"
+82-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:17:9-41
+83        android:roundIcon="@drawable/simb"
+83-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:19:9-43
+84        android:theme="@style/AppTheme"
+84-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:21:9-40
+85        android:usesCleartextTraffic="true" >
+85-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:22:9-44
+86        <activity
+86-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/debug/AndroidManifest.xml:11:9-111
+87            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+87-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/debug/AndroidManifest.xml:11:19-83
+88            android:exported="false" />
+88-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/debug/AndroidManifest.xml:11:84-108
+89
+90        <uses-library
+90-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:25:9-27:40
+91            android:name="org.apache.http.legacy"
+91-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:26:13-50
+92            android:required="false" />
+92-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:27:13-37
+93
+94        <activity
+94-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:29:9-42:20
+95            android:name="com.kwanzaatm.MainActivity"
+95-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:30:13-41
+96            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+96-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:32:13-122
+97            android:exported="true"
+97-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:35:13-36
+98            android:label="@string/app_name"
+98-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:31:13-45
+99            android:launchMode="singleTask"
+99-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:33:13-44
+100            android:windowSoftInputMode="adjustResize" >
+100-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:34:13-55
+101            <intent-filter>
+101-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:37:13-40:29
+102                <action android:name="android.intent.action.MAIN" />
+102-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:38:17-69
+102-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:38:25-66
+103
+104                <category android:name="android.intent.category.LAUNCHER" />
+104-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:39:17-77
+104-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:39:27-74
+105            </intent-filter>
+106        </activity>
+107
+108        <meta-data
+108-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:43:7-45:68
+109            android:name="com.google.android.geo.API_KEY"
+109-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:44:11-56
+110            android:value="AIzaSyCv5DctzMPceuyxGn-a7e6yx-ADIInwlMc" />
+110-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:45:11-66
+111
+112        <service android:name="com.backgroundrunner.BackgroundRunnerTask" />
+112-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:46:12-80
+112-->/home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/android/app/src/main/AndroidManifest.xml:46:21-77
+113
+114        <receiver
+114-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:49:9-60:20
+115            android:name="com.onesignal.notifications.receivers.FCMBroadcastReceiver"
+115-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:50:13-86
+116            android:exported="true"
+116-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:51:13-36
+117            android:permission="com.google.android.c2dm.permission.SEND" >
+117-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:52:13-73
+118
+119            <!-- High priority so OneSignal payloads can be filtered from other FCM receivers -->
+120            <intent-filter android:priority="999" >
+120-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:55:13-59:29
+120-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:55:28-50
+121                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+121-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:56:17-81
+121-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:56:25-78
+122
+123                <category android:name="com.kwanzaatm" />
+123-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:58:17-61
+123-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:58:27-58
+124            </intent-filter>
+125        </receiver>
+126
+127        <service
+127-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:62:9-68:19
+128            android:name="com.onesignal.notifications.services.HmsMessageServiceOneSignal"
+128-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:63:13-91
+129            android:exported="false" >
+129-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:64:13-37
+130            <intent-filter>
+130-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:65:13-67:29
+131                <action android:name="com.huawei.push.action.MESSAGING_EVENT" />
+131-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:66:17-81
+131-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:66:25-78
+132            </intent-filter>
+133        </service>
+134
+135        <activity
+135-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:70:9-78:20
+136            android:name="com.onesignal.notifications.activities.NotificationOpenedActivityHMS"
+136-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:71:13-96
+137            android:exported="true"
+137-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:72:13-36
+138            android:noHistory="true"
+138-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:73:13-37
+139            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+139-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:74:13-72
+140            <intent-filter>
+140-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:75:13-77:29
+141                <action android:name="android.intent.action.VIEW" />
+141-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:76:17-69
+141-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:76:25-66
+142            </intent-filter>
+143        </activity>
+144
+145        <receiver
+145-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:80:9-82:39
+146            android:name="com.onesignal.notifications.receivers.NotificationDismissReceiver"
+146-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:81:13-93
+147            android:exported="true" />
+147-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:82:13-36
+148        <receiver
+148-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:83:9-90:20
+149            android:name="com.onesignal.notifications.receivers.BootUpReceiver"
+149-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:84:13-80
+150            android:exported="true" >
+150-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:85:13-36
+151            <intent-filter>
+151-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:86:13-89:29
+152                <action android:name="android.intent.action.BOOT_COMPLETED" />
+152-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:87:17-79
+152-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:87:25-76
+153                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+153-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:88:17-82
+153-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:88:25-79
+154            </intent-filter>
+155        </receiver>
+156        <receiver
+156-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:91:9-97:20
+157            android:name="com.onesignal.notifications.receivers.UpgradeReceiver"
+157-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:92:13-81
+158            android:exported="true" >
+158-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:93:13-36
+159            <intent-filter>
+159-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:94:13-96:29
+160                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+160-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:95:17-84
+160-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:95:25-81
+161            </intent-filter>
+162        </receiver>
+163
+164        <activity
+164-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:99:9-105:75
+165            android:name="com.onesignal.notifications.activities.NotificationOpenedActivity"
+165-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:100:13-93
+166            android:excludeFromRecents="true"
+166-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:101:13-46
+167            android:exported="true"
+167-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:102:13-36
+168            android:noHistory="true"
+168-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:103:13-37
+169            android:taskAffinity=""
+169-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:104:13-36
+170            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+170-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:105:13-72
+171        <activity
+171-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:106:9-111:75
+172            android:name="com.onesignal.notifications.activities.NotificationOpenedActivityAndroid22AndOlder"
+172-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:107:13-110
+173            android:excludeFromRecents="true"
+173-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:108:13-46
+174            android:exported="true"
+174-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:109:13-36
+175            android:noHistory="true"
+175-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:110:13-37
+176            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+176-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:111:13-72
+177
+178        <provider
+178-->[:notifee_react-native] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/@notifee/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:40
+179            android:name="io.invertase.notifee.NotifeeInitProvider"
+179-->[:notifee_react-native] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/@notifee/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-68
+180            android:authorities="com.kwanzaatm.notifee-init-provider"
+180-->[:notifee_react-native] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/@notifee/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-73
+181            android:exported="false"
+181-->[:notifee_react-native] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/@notifee/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+182            android:initOrder="-100" />
+182-->[:notifee_react-native] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/@notifee/react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-37
+183        <provider
+183-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:29:9-37:20
+184            android:name="androidx.startup.InitializationProvider"
+184-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:30:13-67
+185            android:authorities="com.kwanzaatm.androidx-startup"
+185-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:31:13-68
+186            android:exported="false" >
+186-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:32:13-37
+187            <meta-data
+187-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:34:13-36:52
+188                android:name="androidx.work.WorkManagerInitializer"
+188-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:35:17-68
+189                android:value="androidx.startup" />
+189-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:36:17-49
+190            <meta-data
+190-->[androidx.emoji2:emoji2:1.2.0] /home/armando/.gradle/caches/transforms-3/0530d5331f8f2adaa0cf143ea0119033/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+191                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+191-->[androidx.emoji2:emoji2:1.2.0] /home/armando/.gradle/caches/transforms-3/0530d5331f8f2adaa0cf143ea0119033/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+192                android:value="androidx.startup" />
+192-->[androidx.emoji2:emoji2:1.2.0] /home/armando/.gradle/caches/transforms-3/0530d5331f8f2adaa0cf143ea0119033/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+193            <meta-data
+193-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/armando/.gradle/caches/transforms-3/ff8067d605776347eb0b0e89d6829ce7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+194                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+194-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/armando/.gradle/caches/transforms-3/ff8067d605776347eb0b0e89d6829ce7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+195                android:value="androidx.startup" />
+195-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/armando/.gradle/caches/transforms-3/ff8067d605776347eb0b0e89d6829ce7/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+196        </provider>
+197
+198        <service
+198-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:39:9-45:35
+199            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+199-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:40:13-88
+200            android:directBootAware="false"
+200-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:41:13-44
+201            android:enabled="@bool/enable_system_alarm_service_default"
+201-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:42:13-72
+202            android:exported="false" />
+202-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:43:13-37
+203        <service
+203-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:46:9-52:35
+204            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+204-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:47:13-84
+205            android:directBootAware="false"
+205-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:48:13-44
+206            android:enabled="@bool/enable_system_job_service_default"
+206-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:49:13-70
+207            android:exported="true"
+207-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:50:13-36
+208            android:permission="android.permission.BIND_JOB_SERVICE" />
+208-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:51:13-69
+209        <service
+209-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:53:9-59:35
+210            android:name="androidx.work.impl.foreground.SystemForegroundService"
+210-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:54:13-81
+211            android:directBootAware="false"
+211-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:55:13-44
+212            android:enabled="@bool/enable_system_foreground_service_default"
+212-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:56:13-77
+213            android:exported="false" />
+213-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:57:13-37
+214
+215        <receiver
+215-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:61:9-66:35
+216            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+216-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:62:13-88
+217            android:directBootAware="false"
+217-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:63:13-44
+218            android:enabled="true"
+218-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:64:13-35
+219            android:exported="false" />
+219-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:65:13-37
+220        <receiver
+220-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:67:9-77:20
+221            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+221-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:68:13-106
+222            android:directBootAware="false"
+222-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:69:13-44
+223            android:enabled="false"
+223-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:70:13-36
+224            android:exported="false" >
+224-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:71:13-37
+225            <intent-filter>
+225-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:73:13-76:29
+226                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+226-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:74:17-87
+226-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:74:25-84
+227                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+227-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:75:17-90
+227-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:75:25-87
+228            </intent-filter>
+229        </receiver>
+230        <receiver
+230-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:78:9-88:20
+231            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+231-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:79:13-104
+232            android:directBootAware="false"
+232-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:80:13-44
+233            android:enabled="false"
+233-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:81:13-36
+234            android:exported="false" >
+234-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:82:13-37
+235            <intent-filter>
+235-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:84:13-87:29
+236                <action android:name="android.intent.action.BATTERY_OKAY" />
+236-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:85:17-77
+236-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:85:25-74
+237                <action android:name="android.intent.action.BATTERY_LOW" />
+237-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:86:17-76
+237-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:86:25-73
+238            </intent-filter>
+239        </receiver>
+240        <receiver
+240-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:89:9-99:20
+241            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+241-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:90:13-104
+242            android:directBootAware="false"
+242-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:91:13-44
+243            android:enabled="false"
+243-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:92:13-36
+244            android:exported="false" >
+244-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:93:13-37
+245            <intent-filter>
+245-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:95:13-98:29
+246                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+246-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:96:17-83
+246-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:96:25-80
+247                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+247-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:97:17-82
+247-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:97:25-79
+248            </intent-filter>
+249        </receiver>
+250        <receiver
+250-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:100:9-109:20
+251            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+251-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:101:13-103
+252            android:directBootAware="false"
+252-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:102:13-44
+253            android:enabled="false"
+253-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:103:13-36
+254            android:exported="false" >
+254-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:104:13-37
+255            <intent-filter>
+255-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:106:13-108:29
+256                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+256-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:107:17-79
+256-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:107:25-76
+257            </intent-filter>
+258        </receiver>
+259        <receiver
+259-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:110:9-121:20
+260            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+260-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:111:13-88
+261            android:directBootAware="false"
+261-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:112:13-44
+262            android:enabled="false"
+262-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:113:13-36
+263            android:exported="false" >
+263-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:114:13-37
+264            <intent-filter>
+264-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:116:13-120:29
+265                <action android:name="android.intent.action.BOOT_COMPLETED" />
+265-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:87:17-79
+265-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:87:25-76
+266                <action android:name="android.intent.action.TIME_SET" />
+266-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:118:17-73
+266-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:118:25-70
+267                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+267-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:119:17-81
+267-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:119:25-78
+268            </intent-filter>
+269        </receiver>
+270        <receiver
+270-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:122:9-131:20
+271            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+271-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:123:13-99
+272            android:directBootAware="false"
+272-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:124:13-44
+273            android:enabled="@bool/enable_system_alarm_service_default"
+273-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:125:13-72
+274            android:exported="false" >
+274-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:126:13-37
+275            <intent-filter>
+275-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:128:13-130:29
+276                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+276-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:129:17-98
+276-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:129:25-95
+277            </intent-filter>
+278        </receiver>
+279        <receiver
+279-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:132:9-142:20
+280            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+280-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:133:13-78
+281            android:directBootAware="false"
+281-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:134:13-44
+282            android:enabled="true"
+282-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:135:13-35
+283            android:exported="true"
+283-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:136:13-36
+284            android:permission="android.permission.DUMP" >
+284-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:137:13-57
+285            <intent-filter>
+285-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:139:13-141:29
+286                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+286-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:140:17-88
+286-->[androidx.work:work-runtime:2.8.0] /home/armando/.gradle/caches/transforms-3/ecfb0daa85fd61d834d53234e4b146e9/transformed/work-runtime-2.8.0/AndroidManifest.xml:140:25-85
+287            </intent-filter>
+288        </receiver>
+289
+290        <provider
+290-->[:react-native-share] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+291            android:name="cl.json.RNShareFileProvider"
+291-->[:react-native-share] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-55
+292            android:authorities="com.kwanzaatm.rnshare.fileprovider"
+292-->[:react-native-share] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-72
+293            android:exported="false"
+293-->[:react-native-share] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+294            android:grantUriPermissions="true" >
+294-->[:react-native-share] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+295            <meta-data
+295-->[:react-native-share] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:64
+296                android:name="android.support.FILE_PROVIDER_PATHS"
+296-->[:react-native-share] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+297                android:resource="@xml/share_download_paths" />
+297-->[:react-native-share] /home/armando/Documents/ProjectosReact/ReactNative/GitHub/projectos/TaxiPax/TaxiPax/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-61
+298        </provider>
+299
+300        <service
+300-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:13:9-16:43
+301            android:name="com.onesignal.core.services.SyncService"
+301-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:14:13-67
+302            android:exported="false"
+302-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:15:13-37
+303            android:stopWithTask="true" />
+303-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:16:13-40
+304        <service
+304-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:17:9-20:72
+305            android:name="com.onesignal.core.services.SyncJobService"
+305-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:18:13-70
+306            android:exported="false"
+306-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:19:13-37
+307            android:permission="android.permission.BIND_JOB_SERVICE" />
+307-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:20:13-69
+308
+309        <activity
+309-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:22:9-25:75
+310            android:name="com.onesignal.core.activities.PermissionsActivity"
+310-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:23:13-77
+311            android:exported="false"
+311-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:24:13-37
+312            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+312-->[com.onesignal:core:5.0.0] /home/armando/.gradle/caches/transforms-3/462626140ea199f4d67d6f7d701d6aff/transformed/jetified-core-5.0.0/AndroidManifest.xml:25:13-72
+313
+314        <service
+314-->[androidx.room:room-runtime:2.5.0] /home/armando/.gradle/caches/transforms-3/e21b85e65013b5049a9f07a48a725690/transformed/room-runtime-2.5.0/AndroidManifest.xml:24:9-28:63
+315            android:name="androidx.room.MultiInstanceInvalidationService"
+315-->[androidx.room:room-runtime:2.5.0] /home/armando/.gradle/caches/transforms-3/e21b85e65013b5049a9f07a48a725690/transformed/room-runtime-2.5.0/AndroidManifest.xml:25:13-74
+316            android:directBootAware="true"
+316-->[androidx.room:room-runtime:2.5.0] /home/armando/.gradle/caches/transforms-3/e21b85e65013b5049a9f07a48a725690/transformed/room-runtime-2.5.0/AndroidManifest.xml:26:13-43
+317            android:exported="false" />
+317-->[androidx.room:room-runtime:2.5.0] /home/armando/.gradle/caches/transforms-3/e21b85e65013b5049a9f07a48a725690/transformed/room-runtime-2.5.0/AndroidManifest.xml:27:13-37
+318
+319        <activity
+319-->[com.google.android.gms:play-services-base:18.1.0] /home/armando/.gradle/caches/transforms-3/47649f0cc70ed3308eb06cf5817e7977/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+320            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+320-->[com.google.android.gms:play-services-base:18.1.0] /home/armando/.gradle/caches/transforms-3/47649f0cc70ed3308eb06cf5817e7977/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+321            android:exported="false"
+321-->[com.google.android.gms:play-services-base:18.1.0] /home/armando/.gradle/caches/transforms-3/47649f0cc70ed3308eb06cf5817e7977/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+322            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+322-->[com.google.android.gms:play-services-base:18.1.0] /home/armando/.gradle/caches/transforms-3/47649f0cc70ed3308eb06cf5817e7977/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+323
+324        <receiver
+324-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:28:9-35:20
+325            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+325-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:29:13-78
+326            android:exported="true"
+326-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:30:13-36
+327            android:permission="com.google.android.c2dm.permission.SEND" >
+327-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:31:13-73
+328            <intent-filter>
+328-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:32:13-34:29
+329                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+329-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:56:17-81
+329-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:56:25-78
+330            </intent-filter>
+331        </receiver>
+332        <!--
+333             FirebaseMessagingService performs security checks at runtime,
+334             but set to not exported to explicitly avoid allowing another app to call it.
+335        -->
+336        <service
+336-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:41:9-48:19
+337            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+337-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:42:13-82
+338            android:directBootAware="true"
+338-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:43:13-43
+339            android:exported="false" >
+339-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:44:13-37
+340            <intent-filter android:priority="-500" >
+340-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:45:13-47:29
+340-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:45:28-51
+341                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+341-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:46:17-78
+341-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:46:25-75
+342            </intent-filter>
+343        </service>
+344        <service
+344-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:49:9-55:19
+345            android:name="com.google.firebase.components.ComponentDiscoveryService"
+345-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:50:13-84
+346            android:directBootAware="true"
+346-->[com.google.firebase:firebase-common:19.5.0] /home/armando/.gradle/caches/transforms-3/15575f671ca1a3e0a6ce0b0965b7010d/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+347            android:exported="false" >
+347-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:51:13-37
+348            <meta-data
+348-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:52:13-54:85
+349                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+349-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:53:17-119
+350                android:value="com.google.firebase.components.ComponentRegistrar" />
+350-->[com.google.firebase:firebase-messaging:21.1.0] /home/armando/.gradle/caches/transforms-3/6e947f3941b5734ae33c6bf1746fabba/transformed/jetified-firebase-messaging-21.1.0/AndroidManifest.xml:54:17-82
+351            <meta-data
+351-->[com.google.firebase:firebase-iid:21.1.0] /home/armando/.gradle/caches/transforms-3/ded403a6e01404f0cb9cd61268782f28/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:32:13-34:85
+352                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+352-->[com.google.firebase:firebase-iid:21.1.0] /home/armando/.gradle/caches/transforms-3/ded403a6e01404f0cb9cd61268782f28/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:33:17-96
+353                android:value="com.google.firebase.components.ComponentRegistrar" />
+353-->[com.google.firebase:firebase-iid:21.1.0] /home/armando/.gradle/caches/transforms-3/ded403a6e01404f0cb9cd61268782f28/transformed/jetified-firebase-iid-21.1.0/AndroidManifest.xml:34:17-82
+354            <meta-data
+354-->[com.google.firebase:firebase-datatransport:17.0.10] /home/armando/.gradle/caches/transforms-3/4244bb376e2764708ec56a00427b8175/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
+355                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+355-->[com.google.firebase:firebase-datatransport:17.0.10] /home/armando/.gradle/caches/transforms-3/4244bb376e2764708ec56a00427b8175/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
+356                android:value="com.google.firebase.components.ComponentRegistrar" />
+356-->[com.google.firebase:firebase-datatransport:17.0.10] /home/armando/.gradle/caches/transforms-3/4244bb376e2764708ec56a00427b8175/transformed/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
+357            <meta-data
+357-->[com.google.firebase:firebase-installations:16.3.5] /home/armando/.gradle/caches/transforms-3/62ba351a3ac109f41a160bd886e0fb8c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+358                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+358-->[com.google.firebase:firebase-installations:16.3.5] /home/armando/.gradle/caches/transforms-3/62ba351a3ac109f41a160bd886e0fb8c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+359                android:value="com.google.firebase.components.ComponentRegistrar" />
+359-->[com.google.firebase:firebase-installations:16.3.5] /home/armando/.gradle/caches/transforms-3/62ba351a3ac109f41a160bd886e0fb8c/transformed/jetified-firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+360            <!--
+361                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+362                clients to use it as well, by defining this registrar in their own core/common library.
+363            -->
+364            <meta-data
+364-->[com.google.firebase:firebase-common:19.5.0] /home/armando/.gradle/caches/transforms-3/15575f671ca1a3e0a6ce0b0965b7010d/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+365                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+365-->[com.google.firebase:firebase-common:19.5.0] /home/armando/.gradle/caches/transforms-3/15575f671ca1a3e0a6ce0b0965b7010d/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+366                android:value="com.google.firebase.components.ComponentRegistrar" />
+366-->[com.google.firebase:firebase-common:19.5.0] /home/armando/.gradle/caches/transforms-3/15575f671ca1a3e0a6ce0b0965b7010d/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+367        </service>
+368
+369        <provider
+369-->[com.google.firebase:firebase-common:19.5.0] /home/armando/.gradle/caches/transforms-3/15575f671ca1a3e0a6ce0b0965b7010d/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+370            android:name="com.google.firebase.provider.FirebaseInitProvider"
+370-->[com.google.firebase:firebase-common:19.5.0] /home/armando/.gradle/caches/transforms-3/15575f671ca1a3e0a6ce0b0965b7010d/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+371            android:authorities="com.kwanzaatm.firebaseinitprovider"
+371-->[com.google.firebase:firebase-common:19.5.0] /home/armando/.gradle/caches/transforms-3/15575f671ca1a3e0a6ce0b0965b7010d/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+372            android:directBootAware="true"
+372-->[com.google.firebase:firebase-common:19.5.0] /home/armando/.gradle/caches/transforms-3/15575f671ca1a3e0a6ce0b0965b7010d/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+373            android:exported="false"
+373-->[com.google.firebase:firebase-common:19.5.0] /home/armando/.gradle/caches/transforms-3/15575f671ca1a3e0a6ce0b0965b7010d/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+374            android:initOrder="100" />
+374-->[com.google.firebase:firebase-common:19.5.0] /home/armando/.gradle/caches/transforms-3/15575f671ca1a3e0a6ce0b0965b7010d/transformed/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+375
+376        <meta-data
+376-->[com.google.android.gms:play-services-basement:18.1.0] /home/armando/.gradle/caches/transforms-3/a1659a6bf5a4a92fdfbd7441cd51748e/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+377            android:name="com.google.android.gms.version"
+377-->[com.google.android.gms:play-services-basement:18.1.0] /home/armando/.gradle/caches/transforms-3/a1659a6bf5a4a92fdfbd7441cd51748e/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+378            android:value="@integer/google_play_services_version" />
+378-->[com.google.android.gms:play-services-basement:18.1.0] /home/armando/.gradle/caches/transforms-3/a1659a6bf5a4a92fdfbd7441cd51748e/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+379
+380        <service
+380-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/armando/.gradle/caches/transforms-3/3a943182b02e83bb1505f67d44f6ee22/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+381            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+381-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/armando/.gradle/caches/transforms-3/3a943182b02e83bb1505f67d44f6ee22/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+382            android:exported="false" >
+382-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/armando/.gradle/caches/transforms-3/3a943182b02e83bb1505f67d44f6ee22/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+383            <meta-data
+383-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/armando/.gradle/caches/transforms-3/3a943182b02e83bb1505f67d44f6ee22/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+384                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+384-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/armando/.gradle/caches/transforms-3/3a943182b02e83bb1505f67d44f6ee22/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+385                android:value="cct" />
+385-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /home/armando/.gradle/caches/transforms-3/3a943182b02e83bb1505f67d44f6ee22/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+386        </service>
+387        <service
+387-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/armando/.gradle/caches/transforms-3/9ea57d290d0f9db6b6fc5ccda2d65b4f/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+388            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+388-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/armando/.gradle/caches/transforms-3/9ea57d290d0f9db6b6fc5ccda2d65b4f/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+389            android:exported="false"
+389-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/armando/.gradle/caches/transforms-3/9ea57d290d0f9db6b6fc5ccda2d65b4f/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+390            android:permission="android.permission.BIND_JOB_SERVICE" >
+390-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/armando/.gradle/caches/transforms-3/9ea57d290d0f9db6b6fc5ccda2d65b4f/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+391        </service>
+392
+393        <receiver
+393-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/armando/.gradle/caches/transforms-3/9ea57d290d0f9db6b6fc5ccda2d65b4f/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+394            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+394-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/armando/.gradle/caches/transforms-3/9ea57d290d0f9db6b6fc5ccda2d65b4f/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132
+395            android:exported="false" /> <!-- Receiver Service -->
+395-->[com.google.android.datatransport:transport-runtime:2.2.5] /home/armando/.gradle/caches/transforms-3/9ea57d290d0f9db6b6fc5ccda2d65b4f/transformed/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+396        <service
+396-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:29:9-31:40
+397            android:name="app.notifee.core.ReceiverService"
+397-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:30:13-60
+398            android:exported="false" />
+398-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:31:13-37
+399
+400        <activity
+400-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:33:9-39:75
+401            android:name="app.notifee.core.NotificationReceiverActivity"
+401-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:34:13-73
+402            android:excludeFromRecents="true"
+402-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:35:13-46
+403            android:exported="true"
+403-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:36:13-36
+404            android:noHistory="true"
+404-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:37:13-37
+405            android:taskAffinity=""
+405-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:38:13-36
+406            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Foreground Service -->
+406-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:39:13-72
+407        <service
+407-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:42:9-44:40
+408            android:name="app.notifee.core.ForegroundService"
+408-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:43:13-62
+409            android:exported="false" />
+409-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:44:13-37
+410
+411        <receiver
+411-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:46:9-54:20
+412            android:name="app.notifee.core.RebootBroadcastReceiver"
+412-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:47:13-68
+413            android:exported="false" >
+413-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:48:13-37
+414            <intent-filter>
+414-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:49:13-53:29
+415                <action android:name="android.intent.action.BOOT_COMPLETED" />
+415-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:87:17-79
+415-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:87:25-76
+416                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+416-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:88:17-82
+416-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:88:25-79
+417                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+417-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:52:17-82
+417-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:52:25-79
+418            </intent-filter>
+419        </receiver>
+420        <receiver
+420-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:55:9-61:20
+421            android:name="app.notifee.core.AlarmPermissionBroadcastReceiver"
+421-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:56:13-77
+422            android:exported="true" >
+422-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:57:13-36
+423            <intent-filter>
+423-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:58:13-60:29
+424                <action android:name="android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED" />
+424-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:59:17-107
+424-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:59:25-104
+425            </intent-filter>
+426        </receiver>
+427        <receiver
+427-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:62:9-70:20
+428            android:name="app.notifee.core.NotificationAlarmReceiver"
+428-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:63:13-70
+429            android:exported="false" >
+429-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:64:13-37
+430            <intent-filter>
+430-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:49:13-53:29
+431                <action android:name="android.intent.action.BOOT_COMPLETED" />
+431-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:87:17-79
+431-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:87:25-76
+432                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+432-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:88:17-82
+432-->[com.onesignal:notifications:5.0.0] /home/armando/.gradle/caches/transforms-3/21dfa142d8570d70989eee085f0c7d76/transformed/jetified-notifications-5.0.0/AndroidManifest.xml:88:25-79
+433                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+433-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:52:17-82
+433-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:52:25-79
+434            </intent-filter>
+435        </receiver> <!-- Broadcast Receiver -->
+436        <receiver
+436-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:73:9-81:20
+437            android:name="app.notifee.core.BlockStateBroadcastReceiver"
+437-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:74:13-72
+438            android:exported="false" >
+438-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:75:13-37
+439            <intent-filter>
+439-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:76:13-80:29
+440                <action android:name="android.app.action.APP_BLOCK_STATE_CHANGED" />
+440-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:77:17-85
+440-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:77:25-82
+441                <action android:name="android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED" />
+441-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:78:17-102
+441-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:78:25-99
+442                <action android:name="android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED" />
+442-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:79:17-108
+442-->[app.notifee:core:202108261754] /home/armando/.gradle/caches/transforms-3/12a9454109baf45c581961ae6872fba1/transformed/jetified-core-202108261754/AndroidManifest.xml:79:25-105
+443            </intent-filter>
+444        </receiver>
+445    </application>
+446
+447</manifest>

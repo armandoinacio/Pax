@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216253594113",
+    "project_id": "kwanza-atm-a4f7e",
+    "storage_bucket": "kwanza-atm-a4f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216253594113:android:322c28b9643d0765fd5e00",
+        "android_client_info": {
+          "package_name": "com.kwanzaatm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxpRFT80ovGuVhIePEh_kBbLJkWZtcOFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

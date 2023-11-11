@@ -1,0 +1,4 @@
+export const CommonConstants = {
+  MOSTRAR_LOGIN: 'MOSTRAR_LOGIN_SUCCESS',
+  MODAL_VISIBLE: 'MODAL_VISIBLE_SUCCESS',
+};

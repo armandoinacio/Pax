@@ -1,0 +1,21 @@
+export const ApplicationProperties = {
+  emailDomain: '',
+    //baseUrl: 'http:127.0.0.1:8000/api/v1',
+    //baseUrl: 'http://192.168.100.22:8000/api/v1',
+     //baseUrl: 'http://192.168.100.22:8000/api/v1',
+     // baseUrl: 'http://135.181.43.100:8888/api/v1',
+     baseUrl: 'http://192.168.0.136:8000/api/v1',
+      Url: 'http://135.181.43.100',
+   //  Url: 'http://192.168.0.117',
+     showJson:"http://135.181.43.100/Anuncios/kzatm/files.json",
+  consumerKey: '',
+  consumerSecret: '',
+  oneSignalId: '',
+  appVerificationDisabledForTesting: true,
+  apiKey: '5b3ce3597851110001cf6248b3df0fbd33ca4082aa34c08ca950c0ff',
+  openRoute: `https://api.openrouteservice.org/v2/directions/driving-car?api_key=5b3ce3597851110001cf6248b3df0fbd33ca4082aa34c08ca950c0ff`,
+  UrlAuth: 'http://192.168.0.117:8000/broadcasting/auth',
+  APP_PUSHER_APP_KEY: 'meukey',
+  pusherCluster: 'mt1',
+
+}

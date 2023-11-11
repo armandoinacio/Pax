@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.kwanzaatm.app-merged_res-51:/drawable_simb.png.flat",
+        "source": "com.kwanzaatm.app-main-53:/drawable/simb.png"
+    },
+    {
+        "merged": "com.kwanzaatm.app-merged_res-51:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.kwanzaatm.app-main-53:/drawable/rn_edit_text_material.xml"
+    }
+]

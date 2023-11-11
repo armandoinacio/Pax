@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">216253594113</string>
+    <string name="google_api_key" translatable="false">AIzaSyBxpRFT80ovGuVhIePEh_kBbLJkWZtcOFI</string>
+    <string name="google_app_id" translatable="false">1:216253594113:android:322c28b9643d0765fd5e00</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBxpRFT80ovGuVhIePEh_kBbLJkWZtcOFI</string>
+    <string name="google_storage_bucket" translatable="false">kwanza-atm-a4f7e.appspot.com</string>
+    <string name="project_id" translatable="false">kwanza-atm-a4f7e</string>
+</resources>
